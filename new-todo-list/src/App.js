@@ -3,10 +3,10 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header>
-        aqui hare mi nuevo todo list
-      </header>
+    <div className="app">
+      <div className="container-title">
+        <input type="text" />
+      </div>
     </div>
   );
 }
